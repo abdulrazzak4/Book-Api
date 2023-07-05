@@ -1,5 +1,5 @@
 # Book-Api
-##Tools & Libraries:
-ASP.NET Core
-MySql
+## Tools & Libraries:
+* ASP.NET Core
++ MySql
 
